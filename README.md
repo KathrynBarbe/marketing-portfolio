@@ -1,54 +1,44 @@
-# 📊 Marketing Portfolio – Kathryn Barbe
+# Marketing Portfolio – Kathryn Barbe
 
-Senior marketing and growth leader specializing in SEO, digital strategy, product launches, and AI-driven marketing.
-
----
-
-## 🚀 About Me
-I bring 20+ years of experience driving digital growth, revenue performance, and product strategy across global and e-commerce markets.
-
-My focus areas include:
-- SEO & organic growth strategy
-- Product launches and go-to-market execution
-- Performance marketing & campaign optimization
-- AI-driven marketing and automation
-- Data analytics and revenue insights
+Senior marketing and e-commerce leader specializing in digital growth, SEO strategy, product launches, and data-driven performance optimization.
 
 ---
 
-## 📈 Core Expertise
-- SEO & Paid Media Strategy
-- Conversion Rate Optimization (CRO)
-- Product Marketing & Launch Strategy
-- AI-Enabled Marketing & Automation
-- Marketing Analytics (ROAS, revenue, performance)
-- Customer Journey Optimization
+## About
+With over 20 years of experience, I have led global marketing initiatives focused on revenue growth, market expansion, and digital transformation. My work combines strategic planning, performance marketing, and analytics to drive measurable business results.
 
 ---
 
-## 🧠 Selected Work
-
-### 📊 Marketing Analytics Dashboard
-Built a performance dashboard to analyze ROAS, revenue, and campaign efficiency using Python and data visualization tools.
-
-### 🚀 Product Launch Strategy
-Led go-to-market strategies across multiple product lines, aligning pricing, positioning, and demand generation.
-
-### 🔍 SEO Growth Optimization
-Improved organic visibility by over 150% through technical SEO, content strategy, and performance optimization.
+## Core Expertise
+- SEO and organic growth strategy  
+- Product marketing and go-to-market execution  
+- Performance marketing and campaign optimization  
+- AI-enabled marketing and automation  
+- Conversion rate optimization (CRO)  
+- Marketing analytics and revenue performance  
 
 ---
 
-## 🛠️ Tools & Technologies
-Google Analytics (GA4) • Google Ads • Salesforce • Pardot • Shopify  
-Python (Pandas, Plotly) • SQL • AI Marketing Tools
+## Selected Work
+
+### Marketing Performance Analytics
+Developed dashboards and analytical tools to evaluate campaign performance, revenue impact, and return on ad spend (ROAS), supporting data-driven decision making.
+
+### Product Launch and Go-to-Market Strategy
+Led product launch initiatives across multiple markets, aligning positioning, pricing, and demand generation to achieve revenue targets.
+
+### SEO and Digital Growth
+Increased organic visibility and inbound traffic through technical SEO improvements, content strategy, and performance optimization.
 
 ---
 
-## 📬 Contact
-LinkedIn: (add link)
+## Tools and Technologies
+Google Analytics (GA4), Google Ads, Salesforce, Pardot, Shopify  
+Python (Pandas, Plotly), SQL  
+Marketing automation and AI-driven tools  
+
+---
+
+## Contact
+LinkedIn: [Add Link]  
 Email: kathrynbarbe.marketing@gmail.com
-
----
-
-⭐ This portfolio highlights my work in growth marketing, analytics, and digital strategy.
