@@ -43,3 +43,7 @@ Provide a data-driven framework to evaluate marketing performance and identify o
 
 ## Notes
 This project reflects practical application of analytics in marketing to drive performance optimization and strategic insights.
+
+## Dashboard Preview
+
+![Marketing Dashboard](Dashboard.png)
