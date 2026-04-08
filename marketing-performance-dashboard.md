@@ -1,5 +1,11 @@
 # Marketing Performance Dashboard (Python)
 
+## Key Outcomes
+
+- Delivered a data-driven marketing dashboard to evaluate ROAS, revenue, and campaign efficiency  
+- Identified performance gaps and optimization opportunities across channels  
+- Enabled more effective budget allocation and strategic decision-making
+  
 ## Overview
 Developed a marketing analytics dashboard to track and analyze key performance metrics including revenue, ad spend, and return on ad spend (ROAS).
 
