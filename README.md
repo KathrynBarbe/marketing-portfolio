@@ -1,50 +1,54 @@
 # 📊 Marketing Portfolio – Kathryn Barbe
 
-Welcome to my marketing portfolio! This repository showcases my work in digital marketing, analytics, and e-commerce strategy.
+Senior marketing and growth leader specializing in SEO, digital strategy, product launches, and AI-driven marketing.
 
 ---
 
 ## 🚀 About Me
-I’m a marketing professional focused on:
-- E-commerce growth (Amazon, eBay)
-- Product marketing & branding (TIKIBOO Pets)
-- Data-driven decision making
-- Social media & content strategy
+I bring 20+ years of experience driving digital growth, revenue performance, and product strategy across global and e-commerce markets.
+
+My focus areas include:
+- SEO & organic growth strategy
+- Product launches and go-to-market execution
+- Performance marketing & campaign optimization
+- AI-driven marketing and automation
+- Data analytics and revenue insights
 
 ---
 
-## 📈 Skills
-- Marketing Analytics (ROAS, conversion tracking)
-- SEO & keyword research
-- Product listing optimization
-- Social media marketing
-- Email marketing
-- Market research
+## 📈 Core Expertise
+- SEO & Paid Media Strategy
+- Conversion Rate Optimization (CRO)
+- Product Marketing & Launch Strategy
+- AI-Enabled Marketing & Automation
+- Marketing Analytics (ROAS, revenue, performance)
+- Customer Journey Optimization
 
 ---
 
-## 🧠 Projects
+## 🧠 Selected Work
 
-### 🛍️ E-commerce Product Optimization
-- Optimized listings for higher conversion
-- Improved titles, keywords, and descriptions
-- Focus on Amazon & eBay performance
+### 📊 Marketing Analytics Dashboard
+Built a performance dashboard to analyze ROAS, revenue, and campaign efficiency using Python and data visualization tools.
 
-### 📊 Marketing Dashboard (In Progress)
-- Tracking ad spend, revenue, and ROI
-- Using data to improve campaign performance
+### 🚀 Product Launch Strategy
+Led go-to-market strategies across multiple product lines, aligning pricing, positioning, and demand generation.
 
-### 🐾 Brand Development – TIKIBOO Pets
-- Built a pet brand focused on sustainability
-- Product development (treats, poop bags)
-- Mission-driven marketing (pet rescue support)
+### 🔍 SEO Growth Optimization
+Improved organic visibility by over 150% through technical SEO, content strategy, and performance optimization.
+
+---
+
+## 🛠️ Tools & Technologies
+Google Analytics (GA4) • Google Ads • Salesforce • Pardot • Shopify  
+Python (Pandas, Plotly) • SQL • AI Marketing Tools
 
 ---
 
 ## 📬 Contact
-- LinkedIn: (add later)
-- Email: (optional)
+LinkedIn: (add link)
+Email: kathrynbarbe.marketing@gmail.com
 
 ---
 
-⭐ More projects coming soon!
+⭐ This portfolio highlights my work in growth marketing, analytics, and digital strategy.
