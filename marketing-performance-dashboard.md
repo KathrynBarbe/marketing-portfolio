@@ -46,8 +46,5 @@ This project reflects practical application of analytics in marketing to drive p
 
 ## Dashboard Preview
 
-![Marketing Dashboard](Dashboard.png)
-<p align="center">
-  <img src="Dashboard.png" width="800"/>
-</p>
+
 
