@@ -101,7 +101,17 @@ Download the Guide
 
 ---
 
-### AI Integration
+## Integration with Marketing Performance Dashboard
+
+This lead generation framework is designed to integrate with performance analytics to continuously optimize results.
+
+The marketing dashboard enables:
+
+- Monitoring of key metrics such as ROAS, conversion rate, and customer acquisition cost (CAC)
+- Identification of high-performing channels and campaigns
+- Data-driven optimization of lead generation strategies
+
+This integration ensures that lead generation efforts are aligned with measurable business outcomes and ongoing performance improvement.
 
 - Used AI to accelerate messaging development and content structuring  
 - Supported audience targeting and keyword research  
