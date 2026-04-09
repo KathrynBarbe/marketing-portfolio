@@ -1,3 +1,7 @@
+# AI-Powered Lead Generation & Pipeline Optimization
+
+Design and implementation of an AI-driven demand generation framework focused on improving lead quality, accelerating pipeline growth, and aligning marketing with revenue outcomes.
+
 ## Overview
 
 Developed an AI-driven lead generation framework designed to identify, attract, and qualify high-value prospects across digital channels.
