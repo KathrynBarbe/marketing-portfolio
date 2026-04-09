@@ -1,44 +1,73 @@
-# Marketing Portfolio – Kathryn Barbe
+# Marketing Systems Portfolio – Kathryn Barbe
 
-Senior marketing and e-commerce leader specializing in digital growth, SEO strategy, product launches, and data-driven performance optimization.
-
----
-
-## About
-With over 20 years of experience, I have led global marketing initiatives focused on revenue growth, market expansion, and digital transformation. My work combines strategic planning, performance marketing, and analytics to drive measurable business results.
+Senior marketing and e-commerce leader specializing in digital growth, SEO strategy, AI-driven demand generation, and data-driven performance optimization.
 
 ---
 
-## Core Expertise
+## Overview
+
+This portfolio showcases an integrated marketing approach combining:
+
+- Lead generation and demand strategy  
+- Performance analytics and optimization  
+- AI-supported marketing frameworks  
+
+Together, these projects demonstrate how marketing systems can drive measurable business outcomes and scalable growth.
+
+---
+
+## Marketing System Approach
+
+This portfolio reflects a structured marketing system:
+
+1. **Lead Generation & Demand Creation**  
+   - Attract and convert high-value prospects  
+   - Develop messaging, funnels, and acquisition strategies  
+
+2. **Performance Measurement & Analytics**  
+   - Track key metrics (ROAS, conversion rate, CAC)  
+   - Identify opportunities for optimization  
+
+3. **Continuous Optimization**  
+   - Use insights to refine campaigns  
+   - Improve efficiency and profitability over time  
+
+---
+
+## Projects
+
+### AI-Powered Lead Generation & Pipeline Optimization
+Developed a strategic framework for generating and nurturing leads using AI-supported insights, messaging, and funnel development.
+
+- Multi-channel lead generation strategy  
+- Conversion-focused landing pages and email sequences  
+- Alignment with sales pipeline objectives  
+
+👉 [View Project](./AI-Powered%20Lead%20Generation.md)
+
+---
+
+### Marketing Performance Dashboard (Python)
+Developed a data-driven dashboard to track and analyze marketing performance across campaigns.
+
+- Analysis of revenue, ad spend, and ROAS  
+- Data visualization using Python (Pandas, Plotly)  
+- Identification of performance trends and optimization opportunities  
+
+👉 [View Project](./marketing-performance-dashboard.md)
+
+---
+
+## Key Capabilities
+
+- Digital marketing strategy and execution  
 - SEO and organic growth strategy  
-- Product marketing and go-to-market execution  
-- Performance marketing and campaign optimization  
-- AI-enabled marketing and automation  
-- Conversion rate optimization (CRO)  
-- Marketing analytics and revenue performance  
+- AI-driven content and demand generation  
+- Marketing analytics and performance optimization  
+- Conversion rate optimization and funnel strategy  
 
 ---
 
-## Selected Work
+## Strategic Focus
 
-### Marketing Performance Analytics
-Developed dashboards and analytical tools to evaluate campaign performance, revenue impact, and return on ad spend (ROAS), supporting data-driven decision making.
-
-### Product Launch and Go-to-Market Strategy
-Led product launch initiatives across multiple markets, aligning positioning, pricing, and demand generation to achieve revenue targets.
-
-### SEO and Digital Growth
-Increased organic visibility and inbound traffic through technical SEO improvements, content strategy, and performance optimization.
-
----
-
-## Tools and Technologies
-Google Analytics (GA4), Google Ads, Salesforce, Pardot, Shopify  
-Python (Pandas, Plotly), SQL  
-Marketing automation and AI-driven tools  
-
----
-
-## Contact
-LinkedIn: [Add Link]  
-Email: kathrynbarbe.marketing@gmail.com
+Combining marketing strategy, analytics, and AI to build scalable systems that drive revenue growth and measurable business impact.
